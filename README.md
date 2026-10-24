@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thevictoryseafarer18-cmd/thevictoryseafarer18-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>~/sai $ ./contributions.sh</code></h3>
 
-Here are some ideas to get you started:
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution graph"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<h3><code>~/sai $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="ASCII portrait of Sai M"/></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Sai M · Learning Today. Innovating Tomorrow. Leading the Future"/></td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>~/sai $ ./snake --eat contributions</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thevictoryseafarer18-cmd/thevictoryseafarer18-cmd/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thevictoryseafarer18-cmd/thevictoryseafarer18-cmd/output/github-snake.svg"/>
+  <img width="860" alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/thevictoryseafarer18-cmd/thevictoryseafarer18-cmd/output/github-snake.svg"/>
+</picture>
+
+<br><br>
+
+<h3><code>~/sai $ ./links.sh</code></h3>
+
+<p><b>B.Tech AI/ML Student @ Dr. MGR E&amp;RI</b></p>
+
+<br>
+
+<sub>Profile template by <a href="https://github.com/GubreleySanskar">@GubreleySanskar</a></sub>
+
+</div>
